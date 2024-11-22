@@ -20,13 +20,7 @@ Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Fe
 ## 🚀 Proyectos destacados
 
 Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
-
-<ul>
-  <li>
-    <img src="https://avatars.githubusercontent.com/u/184432680?s=30" alt="Room Track Logo" style="vertical-align:middle;"> 
-    <a href="https://github.com/Room-Track">Room Track</a>
-  </li>
-</ul>
+- [Room Track](https://github.com/Room-Track) : Aplicacion mobil para buscar y llegar a salas, edificios y demas lugares en la USM.
 
 <!--
 - [**Nombre del Proyecto 1**](#): Breve descripción del proyecto.
