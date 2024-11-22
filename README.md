@@ -20,7 +20,14 @@ Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Fe
 ## 🚀 Proyectos destacados
 
 Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
-- [Room Track](https://github.com/Room-Track)
+
+<ul>
+  <li>
+    <img src="https://avatars.githubusercontent.com/u/184432680?s=30" alt="Room Track Logo" style="vertical-align:middle;"> 
+    <a href="https://github.com/Room-Track">Room Track</a>
+  </li>
+</ul>
+
 <!--
 - [**Nombre del Proyecto 1**](#): Breve descripción del proyecto.
 - [**Nombre del Proyecto 2**](#): Breve descripción del proyecto.
@@ -29,7 +36,7 @@ Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
 
 Si tienes ideas para colaborar o simplemente quieres conversar sobre tecnología y desarrollo web:
 
-- ✉️ [mpenaloza@usm.cl]
+- ✉️ mpenaloza@usm.cl
 <!--
 - 💼 [Tu LinkedIn (si tienes)]
 - 🌐 [Tu portafolio o página web (si tienes)]
