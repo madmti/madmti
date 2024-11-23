@@ -6,7 +6,7 @@ Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Fe
 
 - 🎓 **Formación:** En proceso de obtener el título de Ingeniero Civil Informático en la USM.
 - 💻 **Intereses:** 
-  - Desarrollo de software para automatización.
+  - Proyectos para automatización.
   - Optimización de procesos.
   - Creación de páginas web modernas y escalables.
   - Exploración de nuevas tecnologías.
@@ -31,6 +31,7 @@ Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
 Si tienes ideas para colaborar o simplemente quieres conversar sobre tecnología y desarrollo web:
 
 - ✉️ mpenaloza@usm.cl
+- 📞 +56920922574
 <!--
 - 💼 [Tu LinkedIn (si tienes)]
 - 🌐 [Tu portafolio o página web (si tienes)]
