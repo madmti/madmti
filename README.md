@@ -14,26 +14,21 @@ Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Fe
   - Docker
   - MongoDB
   - TypeScript
-  - Flutter
-  - C++
+  - Bash
 
 ## 🚀 Proyectos destacados
 
 Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
 - [Room Track](https://github.com/Room-Track) : Aplicacion mobil para buscar y llegar a salas, edificios y demas lugares en la USM.
 - [TechnoCat](https://github.com/madmti/TechnoCat) : Aplicacion web para incentivar el reciclaje y acciones que conlleven un espacio menos contaminado a travez de la interactividad y el progreso.
+- [Easy Docker Utils](https://github.com/madmti/Easy-Docker-Utils) : CLI para administrar los contenedores de varios proyectos en diferentes directorios. (Beta)
 
-<!--
-- [**Nombre del Proyecto 1**](#): Breve descripción del proyecto.
-- [**Nombre del Proyecto 2**](#): Breve descripción del proyecto.
--->
+
 ## 📫 Contacto
 
 Si tienes ideas para colaborar o simplemente quieres conversar sobre tecnología y desarrollo web:
 
 - ✉️ mpenaloza@usm.cl
 - 📞 +56920922574
-<!--
-- 💼 [Tu LinkedIn (si tienes)]
-- 🌐 [Tu portafolio o página web (si tienes)]
--->
+- 💼 [Linkedin](www.linkedin.com/in/matias-daniel-peñaloza-bustamante-26041733b)
+- 🌐 [Portafolio Web](https://madmti.github.io/)
