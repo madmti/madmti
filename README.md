@@ -21,6 +21,7 @@ Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Fe
 
 Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
 - [Room Track](https://github.com/Room-Track) : Aplicacion mobil para buscar y llegar a salas, edificios y demas lugares en la USM.
+- [TechnoCat](https://github.com/madmti/TechnoCat) : Aplicacion web para incentivar el reciclaje y acciones que conlleven un espacio menos contaminado a travez de la interactividad y el progreso.
 
 <!--
 - [**Nombre del Proyecto 1**](#): Breve descripción del proyecto.
