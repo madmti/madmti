@@ -1,34 +1,44 @@
-# ¡Hola! 👋 Soy Matias Peñaloza
+# 👋 ¡Hola! Soy Matías Peñaloza
 
-Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Federico Santa María (USM)**, actualmente terminando mi segundo año. Me apasiona la tecnología y el desarrollo de software, con un enfoque en crear aplicaciones que simplifiquen y automaticen procesos, además de diseñar páginas web dinámicas y funcionales.
+Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Federico Santa María (USM)**, actualmente en mi 3er año. Me apasiona la tecnología y el desarrollo de software, con especial interés en **automatizar tareas** usando distintas tecnologías, tanto de **alto** como de **bajo nivel**. Disfruto crear soluciones útiles, desde interfaces web interactivas hasta sistemas complejos que resuelvan problemas reales.
+
+---
 
 ## 🌟 Sobre mí
 
-- 🎓 **Formación:** En proceso de obtener el título de Ingeniero Civil Informático en la USM.
-- 💻 **Intereses:** 
-  - Proyectos para automatización.
-  - Optimización de procesos.
-  - Creación de páginas web modernas y escalables.
-  - Exploración de nuevas tecnologías.
-- 🛠️ **Herramientas y tecnologías favoritas:** 
-  - Docker
-  - MongoDB
-  - TypeScript
-  - Bash
+- 🎓 **Formación:** Ingeniería Civil Informática en la USM (en curso).
+- 🧠 **Áreas de interés actuales:**
+  - Automatización de tareas y procesos.
+  - Inteligencia Artificial Explicable (XAI).
+  - Estadística computacional.
+  - Desarrollo de software a bajo nivel.
+  - Creación de aplicaciones modernas, funcionales y escalables.
+
+- 🛠️ **Lenguajes y tecnologías que utilizo:**
+  - **Lenguajes:** Python, C, C++, Java, PHP, TypeScript, Scheme, Prolog, Bash.
+  - **Frameworks y herramientas:** Flutter, Docker, MongoDB, SQL, LIME, SHAP.
+  - **Otros:** Diseño de algoritmos, estructuras de datos, fundamentos de IA.
+
+---
 
 ## 🚀 Proyectos destacados
 
-Aquí encontrarás algunos de mis proyectos recientes. ¡Espero que te inspiren!
-- [Room Track](https://github.com/Room-Track) : Aplicacion mobil para buscar y llegar a salas, edificios y demas lugares en la USM.
-- [TechnoCat](https://github.com/madmti/TechnoCat) : Aplicacion web para incentivar el reciclaje y acciones que conlleven un espacio menos contaminado a travez de la interactividad y el progreso.
-- [Easy Docker Utils](https://github.com/madmti/Easy-Docker-Utils) : CLI para administrar los contenedores de varios proyectos en diferentes directorios. (Beta)
+- 🔎 [**Room Track**](https://github.com/Room-Track)  
+  Aplicación móvil para ubicar salas, edificios y otros espacios dentro del campus USM.
 
+- ♻️ [**TechnoCat**](https://github.com/madmti/TechnoCat)  
+  Plataforma interactiva que promueve el reciclaje mediante un sistema de recompensas y progreso.
+
+- 🧩 [**PORTAL now**](https://portal-now.vercel.app/)  
+  Plataforma modular que permite a estudiantes organizar su vida universitaria mediante plugins para calcular notas, visualizar horarios y hacer seguimiento del progreso académico.
+
+---
 
 ## 📫 Contacto
 
-Si tienes ideas para colaborar o simplemente quieres conversar sobre tecnología y desarrollo web:
+¿Te interesa colaborar o simplemente conversar sobre tecnología, IA o automatización?
 
-- ✉️ mpenaloza@usm.cl
-- 📞 +56920922574
-- 💼 [Linkedin](www.linkedin.com/in/matias-daniel-peñaloza-bustamante-26041733b)
+- ✉️ mpenaloza@usm.cl  
+- 📞 +56 9 2092 2574  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matias-daniel-peñaloza-bustamante-26041733b)  
 - 🌐 [Portafolio Web](https://madmti.github.io/)
