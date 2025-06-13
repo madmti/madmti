@@ -1,0 +1,9 @@
+# Latex compilation files
+CV/*.aux
+CV/*.fdb_latexmk
+CV/*.fls
+CV/*.log
+CV/*.out
+CV/*.toc
+CV/*.synctex.gz
+

@@ -6,6 +6,7 @@
 
 % Configuración de la página
 \usepackage[scale=0.75]{geometry} % Tamaño de los márgenes
+\usepackage{color}
 
 % Información personal
 \name{Matias}{Peñaloza}
@@ -24,30 +25,47 @@
 \makecvtitle
 
 % Sección: Perfil
+%%% Hablar de mi experiancia con las tecnologias.
 \section{Perfil}
-Soy estudiante de Ingeniería Civil Informática en la Universidad Federico Santa María (USM). Me apasiona el desarrollo de software, la creación de páginas web y la automatización de procesos. Aunque mi experiencia laboral previa es en la construcción, estoy adquiriendo conocimientos en programación y tecnologías modernas.
+Soy estudiante de Ingeniería Civil Informática en la Universidad Federico Santa María (USM).
+A lo largo de mi carrera, he estado explorando diversas tecnologías y lenguajes de programación con el fin de solucionar problemas reales y mejorar la eficiencia de procesos cotidianos.
+He trabajado en proyectos personales que me permitieron entender las distintas etapas del desarrollo de software, desde la planificación hasta la implementación, despliegue e integracion continua.
+
+La mejor parte del desarrollo de software es que siempre existen mejores y nuevas formas de hacer las cosas, lo que me motiva a seguir aprendiendo y mejorando mis habilidades.
 
 % Sección: Educación
 \section{Educación}
-\cventry{2023--Presente}{Ingeniería Civil Informática}{Universidad Federico Santa María (USM)}{Valparaíso, Chile}{}{Comenzando el tercer año de la carrera.}
+\cventry{2023--Presente}{Ingeniería Civil Informática}{Universidad Federico Santa María (USM)}{Valparaíso, Chile}{}{Actualmente en mi tercer año de estudios.}
 
 % Sección: Habilidades técnicas
 \section{Habilidades técnicas}
-\cvitem{Lenguajes de programación}{Python, JavaScript, HTML/CSS, Dart, C++}
-\cvitem{Herramientas}{Git, Visual Studio Code, Linux (Arch)}
-\cvitem{Frameworks}{Flutter, Node.js/Bun, Express, Astro, Django}
+\cvitem{Lenguajes de programación}{Python, JavaScript, PHP, Java, Dart, C/C++}
+\cvitem{Herramientas}{Git/GitHub, Docker, Bash, Visual Studio Code}
+\cvitem{Frameworks}{Flutter, Node.js/Bun, Express, OpenAI, Vercel, Astro, React, Azure}
 \cvitem{Bases de datos}{Cosmos DB, MongoDB, SQL}
+\cvitem{Otros}{HTML, CSS, Sass, Tailwind, Django}
 
 % Sección: Experiencia laboral
 \section{Experiencia laboral}
 \cventry{2022/Ene--2022/Nov}{Trabajador de construcción}{M y L servicios integrales}{Pichilemu, Región de O'Higgins}{Chile}{}
 
 % Sección: Proyectos personales
+%%% Poner los link a los proyectos en GitHub o en la web.
+%%% Mas explicativo agregando quotes.
 \section{Proyectos personales}
-\cvitem{Aplicación de mapas interactivos}{Creación de una aplicación para mostrar rutas entre puntos usando Cosmos DB, Express y Flutter.}
-\cvitem{Automatización de tareas}{Desarrollo de scripts en Python y Bash para automatizar tareas repetitivas de Docker.}
-\cvitem{Aplicación web interactiva}{Creación de una aplicación web para incentivar el reciclaje en la comunidad USM a través de la interactividad usando Django, SQLite y Sass.}
-\cvitem{Portafolio web personal}{Desarrollo de una página web con Astro para mostrar proyectos personales.}
+\cvitem{Aplicación de mapas interactivos}{Una aplicación para mostrar rutas a lugares de la universidad, utilizando el algortimo de Dijkstra y un mapeo de la universidad realizado con otra app unicamente creada para el desarrollo. Tecnologias utilizadas: Cosmos DB (Azure), Express y Flutter.}
+\textbf{Repositorio:} \href{https://github.com/Room-Track}{\textcolor{blue}{Room-Track}}
+\\\\
+\cvitem{Aplicación web modular}{Una aplicación con sistema de plugins para gestionar y visualizar horarios, calcular notas y organizar actividades académicas. Se desarrollo una SDK para facilitar la creación de plugins y estandarizar su configuracion, los plugins son servidos desde una cdn y precompilados con Vite. Tecnologías utilizadas: Astro, Vercel, Turso, Tailwind.}
+\textbf{Repositorio:} \href{https://github.com/madmti/Portal-now}{\textcolor{blue}{PORTAL-now}}
+
+\textbf{Link:} \href{https://portal-now.vercel.app/}{\textcolor{blue}{portal-now.vercel.app}}
+\\\\
+\cvitem{Aplicación web interactiva}{Una aplicación web para incentivar el reciclaje en la comunidad USM a través de la interactividad, fueron mis primeros pasos en el desarrollo web. Tecnologias utilizadas: Django, SQLite y Sass.} % Django, SQLite y Sass.
+\textbf{Repositorio:} \href{https://github.com/madmti/TechnoCat}{\textcolor{blue}{TechnoCat}}
+\\\\
+\cvitem{Portafolio web personal}{Una página web con Astro para mostrar proyectos personales.}
+\textbf{Link:} \href{https://madmti.github.io/}{\textcolor{blue}{madmti.github.io}}
 
 % Sección: Idiomas
 \section{Idiomas}
@@ -57,6 +75,16 @@ Soy estudiante de Ingeniería Civil Informática en la Universidad Federico Sant
 % Sección: Intereses
 \section{Intereses}
 \cvitem{Tecnología}{Desarrollo de aplicaciones web y móviles, automatización.}
+\cvitem{Ciencia de datos}{Estadistica computacional, aprendizaje automático y explicabilidad (XAI).}
 \cvitem{Otros}{Aprender nuevos lenguajes de programación y herramientas.}
+
+
+%%% Voler a poner los links con descripción.
+\section{Contacto y redes}
+\cvitem{Teléfono}{\href{tel:+56920922574}{\textcolor{blue}{+56 9 2092 2574}}}
+\cvitem{Correo}{\href{mailto:mpenaloza@usm.cl}{\textcolor{blue}{mpenaloza@usm.cl}}}
+\cvitem{LinkedIn}{\href{https://www.linkedin.com/in/matias-daniel-peñaloza-bustamante-26041733b}{\textcolor{blue}{matias-daniel-peñaloza-bustamante}}}
+\cvitem{GitHub}{\href{https://github.com/madmti}{\textcolor{blue}{github.com/madmti}}}
+\cvitem{Portafolio}{\href{https://madmti.github.io}{\textcolor{blue}{madmti.github.io}}}
 
 \end{document}
