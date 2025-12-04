@@ -23,8 +23,8 @@
 
 <div align="center">
   <samp>
-<strong>USM</strong> Engineer exploring Sytems, Web & Data. Big on <strong>Open Source</strong> & <strong>Performance</strong>. I believe modern software should be fast and resource-efficient, not just "good enough".
-Offline, i'm all about music, table tenis, and board sports.
+<strong>USM</strong> Engineer exploring Systems, Web & Data. Big on <strong>Open Source</strong> & <strong>Performance</strong>. I believe modern software should be fast and resource-efficient, not just "good enough".
+Offline, i'm all about music, table tennis, and board sports.
   </samp>
 </div>
 
@@ -71,6 +71,13 @@ Offline, i'm all about music, table tenis, and board sports.
     </a>
   </h3>
 
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos">
+    <img src="https://img.shields.io/badge/Credits-Awesome%20Readmes-blue?style=flat-square&logo=github" alt="Credits">
+  </a>
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
